@@ -3,7 +3,9 @@ import "./Portfolio.css";
 import Img2 from "../../assets/haj3tmani.gif"
 import Img1 from "../../assets/cc1.gif"
 import Img3 from "../../assets/can23.gif";
-import Img4 from "../../assets/qatar22.gif"
+import Img4 from "../../assets/qatar22.gif";
+import Img5 from '../../assets/chriAnimal.gif';
+import Img6 from "../../assets/animestore.gif";
 const Portfolio = () => {
   const data=[
     {
@@ -33,6 +35,20 @@ const Portfolio = () => {
       title:"Gestion de Word cup Qatar 2022",
       demo:"https://adnane-elkanbouji.github.io/World_Cup/",
       github:"https://github.com/Adnane-elKanbouji/World_Cup"
+    },
+    {
+      id:5,
+      image:Img5,
+      title:"Site E-commerce Chri Animal",
+      demo:"https://drive.google.com/drive/folders/1XvidWlPNu_SeMEfLNtD5qW1PwMtCZNjF",
+      github:""
+    },
+    {
+      id:6,
+      image:Img6,
+      title:"Site E-commerce Anime Store",
+      demo:"http://animestore.is-best.net/?i=1",
+      github:""
     },
     
 
