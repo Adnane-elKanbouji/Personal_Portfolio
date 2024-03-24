@@ -1,20 +1,22 @@
 {
   "files": {
     "main.css": "/Personal_Portfolio/static/css/main.81804854.css",
-    "main.js": "/Personal_Portfolio/static/js/main.a8ec974b.js",
+    "main.js": "/Personal_Portfolio/static/js/main.e465b1a4.js",
     "static/media/me_about.jpg": "/Personal_Portfolio/static/media/me_about.ef235282b4ecbcefbd36.jpg",
+    "static/media/animestore.gif": "/Personal_Portfolio/static/media/animestore.38800839b01c5ac7d3fa.gif",
     "static/media/qatar22.gif": "/Personal_Portfolio/static/media/qatar22.be180394d6d707c17d93.gif",
+    "static/media/chriAnimal.gif": "/Personal_Portfolio/static/media/chriAnimal.5e3c476c59176df0cf0a.gif",
     "static/media/haj3tmani.gif": "/Personal_Portfolio/static/media/haj3tmani.ae356bcec6f54ceebb9e.gif",
     "static/media/can23.gif": "/Personal_Portfolio/static/media/can23.d9e675ac4fd062ff97ab.gif",
     "static/media/cc1.gif": "/Personal_Portfolio/static/media/cc1.23505cf6cd4263fc7ecd.gif",
-    "static/media/cv.pdf": "/Personal_Portfolio/static/media/cv.2f056d373f14c30e6062.pdf",
     "static/media/me.png": "/Personal_Portfolio/static/media/me.a97db32ad55b8a7a84a9.png",
+    "static/media/cv.pdf": "/Personal_Portfolio/static/media/cv.37e5f83d3aeca3c4da0a.pdf",
     "index.html": "/Personal_Portfolio/index.html",
     "main.81804854.css.map": "/Personal_Portfolio/static/css/main.81804854.css.map",
-    "main.a8ec974b.js.map": "/Personal_Portfolio/static/js/main.a8ec974b.js.map"
+    "main.e465b1a4.js.map": "/Personal_Portfolio/static/js/main.e465b1a4.js.map"
   },
   "entrypoints": [
     "static/css/main.81804854.css",
-    "static/js/main.a8ec974b.js"
+    "static/js/main.e465b1a4.js"
   ]
 }
