@@ -9,6 +9,7 @@ import Footer from './Compenents/footer/Footer';
 import Contact from './Compenents/contact/Contact';
 import "./index.css";
 import Portfolio from './Compenents/portfolio/Portfolio';
+
 const App = () => {
   return (
     <>
@@ -17,7 +18,7 @@ const App = () => {
     <About/>
     <Experience/>
     
-    <Service/>
+
     <Portfolio/>
     <Contact/>
    
